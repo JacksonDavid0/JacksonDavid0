@@ -73,14 +73,6 @@ What truly drives me is the **artistry** of creating **captivating** web applica
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JacksonDavid0&theme=dark)](https://git.io/streak-stats)
   
 </div>
-
-<br/>
-
-<div align="center">
-  
-  [![JacksonDavid0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacksonDavid0&&show_icons=true&theme=radical)](https://github.com/JacksonDavid0/github-readme-stats)
-
-</div>
 <!---
 JacksonDavid0/JacksonDavid0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
