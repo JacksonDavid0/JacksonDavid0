@@ -22,6 +22,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JacksonDavid0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   <img src="https://user-images.githubusercontent.com/99461338/294522147-3c9b1497-5991-4027-8081-6162a7257d29.png" alt="GitHub Trophies" width="600" align="center" />
 </p>
 
