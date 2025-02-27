@@ -26,10 +26,6 @@
 <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=JacksonDavid0&theme=dracula&transparent=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JacksonDavid0&theme=monokai&transparent=true" alt="GitHub Trophies" width="600" align="center" />
-</p>
   
 </div>
 
