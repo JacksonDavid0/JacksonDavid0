@@ -23,10 +23,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=JacksonDavid0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+  
+</div>
 
 <br/>
 
@@ -77,7 +78,7 @@ What truly drives me is the **artistry** of creating **captivating** web applica
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonDavid0&show_icons=true&theme=radical)
+  [![JacksonDavid0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacksonDavid0&theme=dark)](https://github.com/JacksonDavid0/github-readme-stats)
 
 </div>
 <!---
