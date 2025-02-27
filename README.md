@@ -25,7 +25,7 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JacksonDavid0&theme=monokai&transparent=true)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JacksonDavid0&theme=dracula&transparent=true)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
