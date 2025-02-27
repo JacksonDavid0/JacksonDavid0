@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hello 👋, I'm Ajiola Ayomide, a Full-Stack Web Developer </h1>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonDavid0&show_icons=true&theme=radical)
+  ![JacksonDavid0's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonDavid0&show_icons=true&theme=radical)
   
 </div>
 
@@ -78,7 +78,7 @@ What truly drives me is the **artistry** of creating **captivating** web applica
 
 <div align="center">
   
-  [![JacksonDavid0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacksonDavid0&theme=dark)](https://github.com/JacksonDavid0/github-readme-stats)
+  [![JacksonDavid0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacksonDavid0&&show_icons=true&theme=radical)](https://github.com/JacksonDavid0/github-readme-stats)
 
 </div>
 <!---
