@@ -1,6 +1,8 @@
 <div align="center">
-  <h1> Hello 👋, I'm Ajiola Ayomide, a Full-Stack Web Artisan </h1>
-  <img src="https://user-images.githubusercontent.com/99461338/294521834-44a8084f-9955-4942-809b-6d5943ca7949.png" alt="JacksonDavid0's GitHub Stats" width="400" align="center" />
+  <h1> Hello 👋, I'm Ajiola Ayomide, a Full-Stack Web Developer </h1>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonDavid0&show_icons=true&theme=radical)
+  
 </div>
 
 <br/>
@@ -31,7 +33,9 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99461338/294522284-c51d6a8b-584b-467d-b557-3f967496a36e.png" alt="Most Used Languages" width="300" align="center" />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonDavid0)](https://github.com/anuraghazra/github-readme-stats)
+  
 </p>
 
 <br/>
@@ -64,13 +68,17 @@ What truly drives me is the **artistry** of creating **captivating** web applica
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/99461338/294522484-4c571831-8003-4157-a76b-524267486291.png" alt="GitHub Streak" width="400" align="center" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JacksonDavid0&theme=dark)](https://git.io/streak-stats)
+  
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/99461338/294522604-1995967c-b74b-4d3f-b3b9-e12216979779.png" alt="JacksonDavid0's GitHub Stats" width="600" align="center" />
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonDavid0&show_icons=true&theme=radical)
+
 </div>
 <!---
 JacksonDavid0/JacksonDavid0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
