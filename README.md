@@ -33,11 +33,11 @@
 
 ## 💻 Most Used Languages
 
-<p align="center">
+<div align="center">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonDavid0)](https://github.com/anuraghazra/github-readme-stats)
   
-</p>
+</div>
 
 <br/>
 
