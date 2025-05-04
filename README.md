@@ -70,7 +70,7 @@ What truly drives me is the **artistry** of creating **captivating** web applica
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JacksonDavid0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JacksonDavid0&theme=radical)](https://git.io/streak-stats)
   
 </div>
 <!---
