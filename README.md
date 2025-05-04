@@ -35,7 +35,8 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonDavid0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonDavid0&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+/*[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonDavid0)](https://github.com/anuraghazra/github-readme-stats)*/
   
 </div>
 
