@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello 👋, I'm Ajiola Ayomide, a Passionate Full-Stack Web Developer </h1>
+  <h1> Hello 👋, I'm Ajiola Ayomide, A Full-Stack Web Developer </h1>
 
   <p>Building robust and scalable web applications with a focus on the backend and a drive towards full-stack mastery.</p>
   
