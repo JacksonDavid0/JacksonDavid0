@@ -25,7 +25,7 @@
 
 <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JacksonDavid0&theme=dracula&transparent=true)](https://github.com/ryo-ma/github-profile-trophy)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=JacksonDavid0&theme=dracula&transparent=true)
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonDavid0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonDavid0&layout=compact&theme=radical)
 
 </div>
 
@@ -112,6 +112,6 @@ Let's connect and talk code!
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JacksonDavid0&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JacksonDavid0&theme=radical)
 
 </div>
